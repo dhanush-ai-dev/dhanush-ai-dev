@@ -88,8 +88,6 @@ Web development internship experience.
 **LinkedIn:**
 https://www.linkedin.com/in/dhanush-t93607611
 
-**GitHub:**
-https://github.com/YOUR_USERNAME
 
 ---
 
